@@ -8,8 +8,8 @@ Taking benefit of the speed of Go, built to solve sudokus quickly
 Open a terminal and type
 ```
 go get -u github.com/natnatf/sugoku
-go build main.go
-go run main.go
+go build github.com/natnatf/sugoku/main.go
+go run github.com/natnatf/sugoku/main.go
 ```
 
 You can use different [sudoku examples](sudokuExamples) to solve !
